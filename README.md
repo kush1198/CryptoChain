@@ -1,4 +1,5 @@
-[# View Online](https://cryptochain-react.netlify.app/)
+# View Online
+[CryptoChain](https://cryptochain-react.netlify.app/)
 
 # Getting Started with Create React App
 
